@@ -1,0 +1,14 @@
+/home/uno/Projects/csharp/fun_server/listener/bin/Debug/net8.0/listener
+/home/uno/Projects/csharp/fun_server/listener/bin/Debug/net8.0/listener.deps.json
+/home/uno/Projects/csharp/fun_server/listener/bin/Debug/net8.0/listener.runtimeconfig.json
+/home/uno/Projects/csharp/fun_server/listener/bin/Debug/net8.0/listener.dll
+/home/uno/Projects/csharp/fun_server/listener/bin/Debug/net8.0/listener.pdb
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/listener.GeneratedMSBuildEditorConfig.editorconfig
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/listener.AssemblyInfoInputs.cache
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/listener.AssemblyInfo.cs
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/listener.csproj.CoreCompileInputs.cache
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/listener.dll
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/refint/listener.dll
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/listener.pdb
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/listener.genruntimeconfig.cache
+/home/uno/Projects/csharp/fun_server/listener/obj/Debug/net8.0/ref/listener.dll

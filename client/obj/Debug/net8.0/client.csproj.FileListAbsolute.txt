@@ -1,0 +1,14 @@
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/client.GeneratedMSBuildEditorConfig.editorconfig
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/client.AssemblyInfoInputs.cache
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/client.AssemblyInfo.cs
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/client.csproj.CoreCompileInputs.cache
+/home/uno/Projects/csharp/fun_server/client/bin/Debug/net8.0/client
+/home/uno/Projects/csharp/fun_server/client/bin/Debug/net8.0/client.deps.json
+/home/uno/Projects/csharp/fun_server/client/bin/Debug/net8.0/client.runtimeconfig.json
+/home/uno/Projects/csharp/fun_server/client/bin/Debug/net8.0/client.dll
+/home/uno/Projects/csharp/fun_server/client/bin/Debug/net8.0/client.pdb
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/client.dll
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/refint/client.dll
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/client.pdb
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/client.genruntimeconfig.cache
+/home/uno/Projects/csharp/fun_server/client/obj/Debug/net8.0/ref/client.dll

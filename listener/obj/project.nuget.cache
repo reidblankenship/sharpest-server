@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BU5F8wUVpEJxUv/5YoVp+JRapXz9ys3gVM/iEZGXkv+yQcDs2KrglMpwLlJdLnBZdSp0LPNuGjXtZcio4TBQw==",
+  "success": true,
+  "projectFilePath": "/home/uno/Projects/csharp/fun_server/listener/listener.csproj",
+  "expectedPackageFiles": [
+    "/home/uno/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
